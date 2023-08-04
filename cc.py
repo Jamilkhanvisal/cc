@@ -155,7 +155,7 @@ logo=("""
 →   Faceboo  :      Alhamodeen Atal
 →   Github      :     Alhamodeen Atal king   HKR
   →   Tools      :      free
-\x1b[1;97m→       Version    :  11.9
+\x1b[1;97m→       Version    :  12.1
 4G/3G full speed internet 💔Update Coming Soon
 \33[1;37m----------------------------------------------""")
 
