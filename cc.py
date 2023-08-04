@@ -366,7 +366,7 @@ def b1():
     limit = int(input('[+] Idz Lemit : '))
     print(46*'-')
     for nmbr in range(limit):
-        nmp = ''.join(random.choice(string.digits) for _ in range(7))
+        nmp = ''.join(random..choice(string.digits) for _ in range(7))
         user.append(nmp)
     with ThreadPool(max_workers=70) as yaari:
         os.system('clear')
