@@ -180,7 +180,7 @@ def dynamic(text):
     titik = ['.   ','..  ','... ','.... ']
     for o in titik:
         print('\r'+text+o),
-        sys.stdout.flush();time.sleep(1)
+        sys.stdout.flush();time..sleep(1)
 
 def riaz():
 	os.system('clear')
